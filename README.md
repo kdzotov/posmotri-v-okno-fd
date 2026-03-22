@@ -1,1 +1,1 @@
-[link](https://github.com/kdzotov/posmotri-v-okno-fd)
+https://github.com/kdzotov/posmotri-v-okno-fd
